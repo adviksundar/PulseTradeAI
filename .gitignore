@@ -18,7 +18,6 @@ frontend/vite.config.d.ts
 .DS_Store
 Thumbs.db
 
-# Local agent working notes
-AGENTS.local.md
-docs/AGENT_MEMORY.md
-docs/*AGENT_NOTES*.md
+# Markdown docs are local-only except the public README.
+*.md
+!README.md

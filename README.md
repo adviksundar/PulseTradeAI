@@ -153,8 +153,6 @@ OPENAI_FAST_MODEL=gpt-5-nano
 OPENAI_BRIEF_MODEL=gpt-5-mini
 ```
 
-See `docs/MULTI_AGENT_WORKFLOW.md`.
-
 Current model usage is intentionally cost-aware: news analysis and market brief stages call OpenAI once per processed news event, sentiment can run locally with FinBERT, and risk/alert decisions run as deterministic policy stages.
 
 ## Finnhub News
