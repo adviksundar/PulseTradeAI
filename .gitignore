@@ -21,3 +21,6 @@ Thumbs.db
 # Markdown docs are local-only except the public README.
 *.md
 !README.md
+
+# Local provider reference docs
+docs/reference/
