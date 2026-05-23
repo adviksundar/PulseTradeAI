@@ -1,0 +1,2 @@
+"""PulseTradeAI backend package."""
+
