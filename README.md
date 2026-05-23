@@ -6,15 +6,11 @@ Real-time AI-powered financial intelligence platform for streaming market data, 
 
 Main dashboard:
 
-<video src="videos/PulseTradeAI_Dashboard_Recording_1.mp4" controls muted playsinline width="720"></video>
-
-[View dashboard video](videos/PulseTradeAI_Dashboard_Recording_1.mp4)
+https://github.com/user-attachments/assets/b622054e-c46c-434a-9761-f0e36d778468
 
 Agent debug dashboard:
 
-<video src="videos/PulseTradeAI_Debug_Dashboard_Recording_1.mp4" controls muted playsinline width="720"></video>
-
-[View debug dashboard video](videos/PulseTradeAI_Debug_Dashboard_Recording_1.mp4)
+https://github.com/user-attachments/assets/c79561b6-4cd8-476d-b5f8-66fcf6f54a83
 
 ## What It Includes
 
