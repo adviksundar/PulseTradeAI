@@ -24,6 +24,8 @@ PulseTradeAI runs locally as a demoable real-time market intelligence app:
 - Watchlist changes now persist in PostgreSQL via `watchlist_symbols`; on startup the backend loads the active DB watchlist and seeds from `.env` only when the table is empty or Postgres is unavailable.
 - Generated packaging output (`*.egg-info`) is ignored, and the FinBERT smoke test lives in `backend/scripts/check_finbert.py`.
 - README and multi-agent docs now describe the current Redis/PostgreSQL and FinBERT-backed workflow accurately before the initial commit.
+- README now includes muted UI demo videos from `videos`, stack decision rationale, and an implemented-capabilities section instead of future-roadmap framing.
+- README now explicitly describes the agent pattern as a deterministic sequential workflow controlled by an orchestrator, plus the token/cost-control strategy using compact payloads and optional `tiktoken` byte pair encoding.
 
 Recent operational notes (May 2026):
 
